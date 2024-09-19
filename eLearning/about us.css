@@ -1,0 +1,16 @@
+p{
+    width: 100%;
+    background: linear-gradient(to top, rgba(0,0,0,0.5)50%, rgba(0,0,0,0.5)50%), url(close-up-still-life-hard-exams.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 109vh;
+    padding-top: 200px;
+    font-size: 20px;
+    font-weight: bolder;
+    color: white;
+    font-family: Arial;
+    letter-spacing: 1.2px;
+    line-height: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
